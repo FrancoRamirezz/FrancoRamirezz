@@ -1,20 +1,13 @@
-### Hi there 👋
-My name is Francisco Ramirez
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Francisco Ramirez
+=========================================================================================================================================
 
+Aspiring Software Developer or Cloud Engineer
+---------------------------------------------
 
+I've been learning how to code throughout university. Going to university has given me exposure to fields like Software Development, Cloud Infrastructure, Security Development, and AI
 
-
-<!--
-**FrancoRamirezz/FrancoRamirezz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🌍  I'm based in United States
+* 🚀  I'm currently working on [SASS](http://github.com/FrancoRamirezz/SAAS)
+* 🧠  I'm learning NextJs and TypeScript
+* 🤝  I'm open to collaborating on Open source AI Projects or Web dev projects
+* ⚡  I'm open to new projects, so please provide them
