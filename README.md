@@ -8,7 +8,7 @@ I've been learning how to code throughout university. Going to university has gi
 * 🚀  I'm currently working on [SASS](http://github.com/FrancoRamirezz/SAAS)
 * 🧠  I'm learning NextJs and TypeScript
 * 🤝  I'm open to collaborating on open-source AI Projects or Web dev projects
-* ⚡  I'm open to new projects, so please provide them
+* ⚡  I'm open to building new projects, so if you find any of the code somewhat useful, and want to help me, then "buy me a coffee" is a great way to help
 
 <a href="https://www.github.com/FrancoRamirezz" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/FrancoRamirezz?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
